@@ -1,7 +1,7 @@
 # GCP-data-semina
 자동화 데이터 수집 및 분석 처리 
 
-![스크린샷 2021-04-26 오후 6.43.53](/public/architecture.PNG)
+![스크린샷 2021-04-26 오후 6.43.53](./public/architecture.PNG)
 
 
 public/airflow.png
