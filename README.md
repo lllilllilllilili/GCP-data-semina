@@ -1,59 +1,7 @@
 # GCP-Semina
 자동화 데이터 수집 및 분석 처리 
 
-<<<<<<< HEAD
-![스크린샷 2021-04-26 오후 6.43.53](/Users/hwang-ingyu/GCP-data-semina/public/architecture.PNG)
-
-![gcp-semina-version](https://img.shields.io/badge/gcp_semina_version-v0.0.1-blue?logo=Google Cloud) 
-=======
-![스크린샷 2021-04-26 오후 6.43.53](/public/architecture.PNG)
->>>>>>> eb62ef1a6e4826f0b2fedb5e2f29028115c699ff
-
-.
-
-![gcp-semina-version](https://img.shields.io/badge/gcp_semina_version-v0.0.1-blue?logo=Google Cloud)
-
-.
-
-<<<<<<< HEAD
-![php](https://img.shields.io/badge/php-v7.3-blueviolet?logo=php)
-=======
-![스크린샷 2021-04-26 오후 6.43.53](./GCP-data-semina/public/airflow.PNG)
->>>>>>> eb62ef1a6e4826f0b2fedb5e2f29028115c699ff
-
-.
-
-<<<<<<< HEAD
-![php](https://img.shields.io/badge/Terraform-v0.12.24-blueviolet?logo=Terraform)
-=======
-![스크린샷 2021-04-26 오후 6.43.53](./GCP-data-semina/public/storage.PNG)
->>>>>>> eb62ef1a6e4826f0b2fedb5e2f29028115c699ff
-
-.
-
-<<<<<<< HEAD
-![Docker](https://img.shields.io/badge/Docker-v20.10.5-informational?logo=Docker)
-=======
-![스크린샷 2021-04-26 오후 6.43.53](./GCP-data-semina/public/dataflow.PNG)
->>>>>>> eb62ef1a6e4826f0b2fedb5e2f29028115c699ff
-
-.
-
-![Airflow](https://img.shields.io/badge/Airflow-v1.10.15-success?logo=Apache Airflow)
-
-.
-
-![Airflow](https://img.shields.io/badge/Elasticsearch-v-yellow?logo=Elasticsearch)
-
-.
-
-![Airflow](https://img.shields.io/badge/Elasticsearch-v-ff69b4?logo=Kibana)
-
-.
-
-![Apache Beam](https://img.shields.io/badge/Apache Beam-v-red?logo=Apache Beam)
-
-. 
+![gcp-semina-version](https://img.shields.io/badge/gcp_semina_version-v0.0.1-blue?logo=Google Cloud) ![gcp](https://img.shields.io/badge/Google_Cloud_Platform-v0.0.1-blue?logo=Google Cloud) ![php](https://img.shields.io/badge/php-v7.3-blueviolet?logo=php) ![Airflow](https://img.shields.io/badge/Airflow-v1.10.15-success?logo=Apache Airflow) ![Airflow](https://img.shields.io/badge/Elasticsearch-v-yellow?logo=Elasticsearch) ![Airflow](https://img.shields.io/badge/Elasticsearch-v-ff69b4?logo=Kibana) ![Apache Beam](https://img.shields.io/badge/Apache Beam-v-red?logo=Apache Beam)
 
 
 
@@ -129,17 +77,8 @@
 
 - [main.tf](./laC-cloudRunDeploy/environments/main/main.tf)
 
-#### 
-
-<<<<<<< HEAD
-=======
-![스크린샷 2021-04-26 오후 6.43.53](./GCP-data-semina/public/bigQuery.PNG)
->>>>>>> eb62ef1a6e4826f0b2fedb5e2f29028115c699ff
 
 
 
 
-<<<<<<< HEAD
-=======
-![스크린샷 2021-04-26 오후 6.43.53](./GCP-data-semina/public/bi.PNG)
->>>>>>> eb62ef1a6e4826f0b2fedb5e2f29028115c699ff
+
