@@ -1,13 +1,13 @@
 # GCP-Semina
 자동화 데이터 수집 및 분석 처리 
 
-![gcp-semina-version](https://img.shields.io/badge/gcp_semina_version-v0.0.1-blue?logo=Google Cloud) 
-![gcp](https://img.shields.io/badge/Google_Cloud_Platform-v0.0.1-blue?logo=Google Cloud) 
+![gcp-semina-version](https://img.shields.io/badge/gcp_semina_version-v0.0.1-blue?logo=Google-Cloud) 
+![gcp](https://img.shields.io/badge/Google_Cloud_Platform-v0.0.1-blue?logo=Google-Cloud) 
 ![php](https://img.shields.io/badge/php-v7.3-blueviolet?logo=php) 
-![Airflow](https://img.shields.io/badge/Airflow-v1.10.15-success?logo=Apache Airflow) 
+![Airflow](https://img.shields.io/badge/Airflow-v1.10.15-success?logo=Apache-Airflow) 
 ![Airflow](https://img.shields.io/badge/Elasticsearch-v-yellow?logo=Elasticsearch) 
 ![Airflow](https://img.shields.io/badge/Elasticsearch-v-ff69b4?logo=Kibana) 
-![Apache Beam](https://img.shields.io/badge/Apache Beam-v-red?logo=Apache Beam)
+![Apache-Beam](https://img.shields.io/badge/Apache Beam-v-red?logo=Apache-Beam)
 
 
 
