@@ -1,5 +1,5 @@
 # GCP-Semina
-자동화 데이터 수집 및 분석 처리 
+Automated data ingest and pre-processing
 
 ![gcp-semina-version](https://img.shields.io/badge/gcp_semina_version-v0.0.1-blue?logo=Google-Cloud) 
 ![gcp](https://img.shields.io/badge/Google_Cloud_Platform-v0.0.1-blue?logo=Google-Cloud) 
@@ -77,6 +77,7 @@
     ```
 
 - Build Trigger
+  
   - [CloudBuild Trigger](https://console.cloud.google.com/cloud-build/triggers?hl=ko&_ga=2.228531037.1136088960.1619399750-1686518364.1619185903&_gac=1.87086442.1619770642.Cj0KCQjw1a6EBhC0ARIsAOiTkrGvF5hv2oJ_8y0rKFioa6E_05KjaCKp_aFdFgWstE-5pA5M2B6ne-8aAmH0EALw_wcB)
 
 #### Terraform
