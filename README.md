@@ -1,4 +1,4 @@
-# GCP-Semina
+# Google Cloud Platform Semina-Smart Data Analysis
 Automated data ingest and pre-processing
 
 ![gcp-semina-version](https://img.shields.io/badge/gcp_semina_version-v0.0.1-blue?logo=Google-Cloud) 
